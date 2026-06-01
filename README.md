@@ -1,27 +1,187 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Kaustav Mazumder</h1>
-<h3 align="center">Passonate Chemical Engineer interested in Artificial Intelligence</h3>
+# Hi 👋, I'm Kaustav Mazumder
 
-- 📫 How to reach me **kaustavmazumder2@gmail.com**
+### Chemical Engineer • AI/ML Researcher • Process Systems Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/712103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="712103" height="30" width="40" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Chemical+Engineering+Student;AI%2FML+Researcher;LLM+and+NLP+Developer;Process+Systems+Engineering+Enthusiast;Future+PhD+Researcher" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 Dual Degree (B.Tech + M.Tech) in Chemical Engineering at **National Institute of Technology Durgapur**
+
+🤖 Pursuing Major Certification in Artificial Intelligence from **IIT Ropar**
+
+🔬 Research Interests:
+
+- Process Systems Engineering
+- Data-Driven Process Modeling
+- Machine Learning for Chemical Engineering
+- Optimization and Digital Twins
+- Micro & Nano Plastics
+- Large Language Models
+- Scientific Machine Learning
+
+📍 West Bengal, India
+
+---
+
+## 🏆 Achievements
+
+🏅 GATE 2026 (Chemical Engineering) – AIR 1718
+
+🥈 2nd Prize Winner at **Abhivyakti Research Seminar**
+for developing a fluoride detection system using LDR-based sensing and SPADNS reagent analysis.
+
+---
+
+## 🔬 Research Experience
+
+### IIT Kharagpur | Research Intern
+
+**Polydopamine Multilayered Borophene-Based Membranes for Wastewater Treatment**
+
+- Developed antibacterial wastewater treatment membranes.
+- Conducted cross-flow filtration studies.
+- Performed COD and CFU analysis.
+
+---
+
+### DRDO – Centre for Artificial Intelligence and Robotics
+
+**AI Research Intern**
+
+- Fine-tuned T5, Pegasus and MPNet models.
+- Worked on Extractive, Abstractive and Hybrid Summarization.
+- Deployed NLP models using Flask.
+
+---
+
+### Coding Jr.
+
+**AI & Data Science Trainee**
+
+- Fine-tuned Large Language Models.
+- Implemented QLoRA based PEFT pipelines.
+- Built task-specific copilots using T5 and LLaMA.
+
+---
+
+## 📚 Publications
+
+### Springer Nature Book Chapters
+
+📖 Recycling of Polymer Nanocomposites in Renewable Energy Systems
+
+📖 Synthesis and Fabrication Techniques of Polymer Nanocomposites
+
+---
+
+## 🔥 Current Research
+
+### Micro and Nano Plastic Treatment in the Ganga Basin
+
+Studying:
+
+- Transport phenomena
+- Source identification
+- Sustainable remediation techniques
+- Environmental impact assessment
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
+
+### Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Transformers](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
+
+### Deployment
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+
+### Simulation & Engineering
+
+![Aspen Plus](https://img.shields.io/badge/Aspen_Plus-blue?style=for-the-badge)
+![Simulink](https://img.shields.io/badge/Simulink-orange?style=for-the-badge)
+![TinkerCAD](https://img.shields.io/badge/TinkerCAD-red?style=for-the-badge)
+
+---
+
+## 📈 Research Areas
+
+```text
+Chemical Engineering
+├── Process Systems Engineering
+├── Process Optimization
+├── Machine Learning
+│   ├── ANN
+│   ├── CNN
+│   ├── RNN
+│   ├── LSTM
+│   └── LLMs
+├── Sustainability
+│   ├── Polymer Nanocomposites
+│   ├── Renewable Energy
+│   └── Wastewater Treatment
+└── Environmental Engineering
+    └── Micro & Nano Plastics
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<!--
-**kaustav548/kaustav548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- Scientific Machine Learning
+- Generative AI
+- Physics Informed Neural Networks
+- Process Digital Twins
+- Advanced Optimization
+- Computational Materials Engineering
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0003-6687-0260)
+
+📧 kaustavmazumder2@gmail.com
+
+---
+
+<div align="center">
+
+### "Bridging Chemical Engineering and Artificial Intelligence for Sustainable Solutions"
+
+⭐ If you like my work, consider starring my repositories!
+
+</div>
